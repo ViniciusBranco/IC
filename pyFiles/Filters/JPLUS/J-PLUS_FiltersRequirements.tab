@@ -1,0 +1,22 @@
+# Table with requirements for the J-PLUS filters
+#
+# Columns description:
+#   ID: filter Id
+#   CWL: Centrla wavelength [Angstrom]
+#   FWHM: Filter FWHM [Angstrom]
+#   W1: Filter top width [Angstrom]
+#   W2: Filter width at Tmax/100 [Angstrom]
+#
+# ID      CWL   FWHM   W1    W2   Tmax
+F348     3485   508   458   000   0.75
+F378     3785   168   138   000   0.75
+F395     3950   100    70   000   0.75
+F410     4100   200   170   000   0.90
+F430     4300   200   170   000   0.90
+g_sdss   4750  1500  1250   000   0.90
+F515     5150   200   170   000   0.90
+r_sdss   6250  1500  1250   000   0.90
+F660     6600   125   100   000   0.90
+i_sdss   7725  1550  1250   000   0.90
+F861     8610   400   360   000   0.90
+z_sdss    9150  1700  1300   000  0.90

@@ -1,0 +1,30 @@
+Theoretical definition of the J-PLUS Filter System
+==================================================
+
+Version: 17-01-2013
+
+This directory contains the specified transmission curves of the
+J-PLUS Filter System.
+
+Description of the files:
+
+- 00REAME ---> This file
+- J-PLUS_FiltersRequirements.tab ---> Table with the theoretical
+               requirements of the filters.
+- PM_001_PEPSI_03.dat ---> Expected transmission curve of the 
+      T80Cam-North CCD.
+- *_with_ccd_qe.dat ---> Transmission curves of the filters,
+               constructed from the theoretical requirements.
+               Two values of transmission are provided: Transmission
+               of the filters, and combined transmission of filters
+               and ccd.
+- J-PLUS_Filter_System_and_CCD_QE.pdf ---> Plot of the theoretical
+               transmission curve of the J-PLUS filters and the 
+               T80Cam-North quantum efficiency.
+- J-PLUS_Filter_System_Convolved_with_CCD_QE.pdf ---> Plot of the
+               expected combined transmissions of J-PLUS Filters and 
+               T80Cam North CCD.
+
+For any question, comment or suggestion, please contact J.Varela
+(jvarela@cefca.es).
+
